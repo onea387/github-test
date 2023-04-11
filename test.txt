@@ -2,3 +2,4 @@ test file
 test commit
 test commit2
 test commit2-1
+test commit2-2
