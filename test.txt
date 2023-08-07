@@ -1,5 +1,7 @@
 test file
+test sample
 test commit
 test commit2
 test commit2-1
 test commit2-2
+test commit3
