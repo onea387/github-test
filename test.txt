@@ -7,3 +7,4 @@ test commit2-1
 test commit2-2
 test commit3
 test commit4
+test sample3
