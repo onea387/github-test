@@ -1,15 +1,6 @@
 test file
 test sample
-test sample2
 test commit
 test commit2
-test commit2-1
-test commit2-2
 test commit3
-test commit3-1
-test commit3-2
 test commit4
-test commit2-3
-test commit2-3-2
-test commit2-4
-test commit2-4-2
